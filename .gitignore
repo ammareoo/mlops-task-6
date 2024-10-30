@@ -1,2 +1,3 @@
-mlops-dvc-440215-ac896175694c.json
-/data
+/config.local
+/tmp
+/cache
